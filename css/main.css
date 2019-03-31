@@ -205,7 +205,7 @@ h1 span {
 
 #contact .container {
 	text-align: center;
-	width: 100%;
+	width: inherit;
 	padding-bottom: 0;
 	
 }
