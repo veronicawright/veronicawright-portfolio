@@ -34,6 +34,10 @@ a:hover {
 	color: #38c1c1;
 } 
 
+a:visited { 
+  color: #F7FFFB;
+}
+
 div {
 	margin: 0px;
 }
